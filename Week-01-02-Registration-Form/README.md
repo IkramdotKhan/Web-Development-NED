@@ -3,7 +3,7 @@
 This is a **simple student registration form** built using **HTML** and **inline CSS**.
 
 ## Assignment Task
-![Task Picture](./Images/Task 1.jpg)
+![Task Picture](./Images/Task1.jpg)
 
 ## Features
 - Input fields for student name, email, password, and contact number
